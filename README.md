@@ -2,8 +2,9 @@
 
 Ceci est un petit test pour expedibox.
 
-Voici la commande pour lancer l'application:
+Voici les commandes pour lancer l'application:
 
-`npm run dev || npm run start`
+* `npm run start`
+* `npm run dev`
 
 Cette application est testé avec Postman.
